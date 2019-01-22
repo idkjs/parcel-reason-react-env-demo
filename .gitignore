@@ -1,0 +1,9 @@
+### Reason ###
+
+*.bs.js
+.cache
+.merlin
+.bsb.lock
+lib/
+node_modules
+dist
